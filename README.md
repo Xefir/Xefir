@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm **Michel Roux**, a 🇫🇷 french 🧰 handyman as comfortable with code as on a terminal.
+I juggle three hats :
+- Web Developer
+- DevOps
+- System Administrator
+
+You'll not find much here because I host pretty much everything I make or publish.
+
+Please forward to my ⚡ **[Gitea](https://git.crystalyx.net/Xefir)** ⚡ to see all my projects !
+
 <!--
 **Xefir/Xefir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
